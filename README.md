@@ -34,7 +34,7 @@ fiz uma transição de carreira para o backend, o que me permitiu adquirir conhe
 </div><br/>
 
 
-## statistic
+## 📊 statistic 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=T4kinho&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
