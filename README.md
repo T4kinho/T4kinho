@@ -18,7 +18,7 @@
 
 
 ## 🚀 About Me
-fiz uma transição de carreira para o backend, o que me permitiu adquirir conhecimentos valiosos em integração de banco de dados e APIs em sites. Minhas especialidades incluem <strong>React, HTML, CSS, JavaScript (ES6), MySQL, Linux e Python, </strong> o que me capacita a trabalhar em diversas áreas do desenvolvimento web e garantir a entrega de soluções de alta qualidade
+Sou um profissional competente, comunicativo e com bom relacionamento pessoal. Adquirir conhecimento como UI Designer, aprimorando habilidades na criação de interfaces bonitas e intuitivas. Recentemente, fizeram uma transição de carreira para o backend, adquirindo conhecimento em integração de banco de dados e APIs em sites. minhas especialidades incluem <strong>React, HTML, CSS, JavaScript (ES6), MySQL, Linux e Python</strong>.
 
 
 ## 🛠 Skills
