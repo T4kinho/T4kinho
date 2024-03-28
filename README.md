@@ -18,7 +18,7 @@
 
 
 ## 🚀 About Me
-Sou um profissional competente, comunicativo e com bom relacionamento pessoal. Adquirir conhecimento como UI Designer, aprimorando habilidades na criação de interfaces bonitas e intuitivas. Recentemente, fizeram uma transição de carreira para o backend, adquirindo conhecimento em integração de banco de dados e APIs em sites. minhas especialidades incluem <strong>React, HTML, CSS, JavaScript (ES6), MySQL, Linux e Python</strong>.
+Sou um profissional competente, comunicativo e com bom relacionamento pessoal. Adquirir conhecimento como UI Designer, aprimorando habilidades na criação de interfaces bonitas e intuitivas. Recentemente, fizeram uma transição de carreira para o backend, adquirindo conhecimento em integração de banco de dados e APIs em sites. minhas especialidades incluem <strong>React, HTML, CSS, JavaScript (ES6), MySQL, Linux e Python</strong>. Atualmente, estou cursando o bacharelado em Ciência da Computação e estou no meu quinto semestre. Durante este período, tenho adquirido continuamente novos conhecimentos relacionados à programação e outras áreas da tecnologia.
 
 
 ## 🛠 Skills
